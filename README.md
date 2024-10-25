@@ -1,3 +1,4 @@
 # Awsome-Summarization-Datasets
-
-![plot](./images/ontology.png)
+<p align="center">
+  <img src="./images/ontology.png" alt="plot">
+</p>
