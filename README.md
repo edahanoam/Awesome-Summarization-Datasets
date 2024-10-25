@@ -13,7 +13,7 @@ If you'd like to contribute a dataset, please submit a pull request and add it t
 
 For standardization, we recommend using the Summarization Data Card, which follows findings from our survey.
 <p align="center">
-  <img src="./images/datacard.png" alt="plot">
+  <img src="./images/datacard.PNG" alt="plot">
 </p>
 <details>
 <summary>📋 Click here to copy the LaTeX code</summary>
