@@ -11,7 +11,11 @@ The collection and ontology is a result of our survey __The State and Fate of Su
 
 If you'd like to contribute a dataset, please submit a pull request and add it to dataset.csv.
 
-For standardization, we recommend using the Summarization Data Card, which follows findings from our survey. <details>
+For standardization, we recommend using the Summarization Data Card, which follows findings from our survey.
+<p align="center">
+  <img src="./images/datacard.png" alt="plot">
+</p>
+<details>
 <summary>📋 Click here to copy the LaTeX code</summary>
 
 ```latex
