@@ -1,4 +1,4 @@
-# Awsome-Summarization-Datasets
+# Awesome-Summarization-Datasets
 The collection and ontology is a result of our survey __The State and Fate of Summarization Datasets__.  
 
 <p align="center">
