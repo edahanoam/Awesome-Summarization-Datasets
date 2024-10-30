@@ -5,12 +5,13 @@ The collection and ontology is a result of our survey __The State and Fate of Su
   <img src="./images/ontology.png" alt="plot">
 </p>
 
+
+If our survey contributes to your research, please reference the following paper in your work:
 <!-- here a way to cite our paper -->
 
 
 
-If you'd like to contribute a dataset, please submit a pull request and add it to dataset.csv.
-
+## Data Card
 For standardization, we recommend using the Summarization Data Card, which follows findings from our survey.<details>
 <summary>📋 Click here to copy the LaTeX code</summary>
 
@@ -66,6 +67,20 @@ $ \frac{\text{doc length (\#words)}}{\text{summary length (\#words)}}$          
 </p>
 
 ## Datasets
+If you'd like to contribute a dataset, please submit a pull request. 
+
+### Paragraph
+These datasets contain output texts composed of one or more paragraphs of coherent free text.
+
+### Single-sentence summary
+These are summaries ranging from a few words (like titles) to a lengthy sentence, composed of several dozens of words. This shape is sometimes referred to as ``extreme summarization'' or ``headline generation''.
+
+### Highlights
+These summaries are constructed from a few, possibly independent sentences. For example, they could be bullet points (e.g., from news articles).
+
+### Span Summarries 
+These datasets use spans of text directly taken from the document as summaries.
+
 | Dataset Name                    | Paper                                                                                                                                                                                                                                                                                                                                                                                               | Languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Language Modality   | Domain                 | Shape        | Supervision           | Annotation Efforts   | Availability                           | Sub-Task                                                                                                 | #Samples   | Human Eval On Data       |
 |:--------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|:-----------------------|:-------------|:----------------------|:---------------------|:---------------------------------------|:---------------------------------------------------------------------------------------------------------|:-----------|:-------------------------|
 | DUC 2001-2007                   | [The Document Understanding Conference (DUC)](https://duc.nist.gov/duc2007/tasks.html)                                                                                                                                                                                                                                                                                                              | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Monolingual         | News                   | Paragraph    | Dedicated             | Human                | Upon Request                           | multidocument, Query-focused,                                                                            | 45         | -                        |
