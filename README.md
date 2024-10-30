@@ -73,10 +73,10 @@ If you'd like to contribute a dataset, please submit a pull request.
 These datasets contain output texts composed of one or more paragraphs of coherent free text.
 
 ### Single-sentence summary
-These are summaries ranging from a few words (like titles) to a lengthy sentence, composed of several dozens of words. This shape is sometimes referred to as ``extreme summarization'' or ``headline generation''.
+The summaries in these datasets range from a few words (like titles) to a lengthy sentence, composed of several dozen words. This format is sometimes referred to as "extreme summarization" or "headline generation".
 
 ### Highlights
-These summaries are constructed from a few, possibly independent sentences. For example, they could be bullet points (e.g., from news articles).
+The summaries in these datasets are constructed from a few, possibly independent sentences. For example, they could be bullet points (e.g., from news articles).
 
 ### Span Summarries 
 These datasets use spans of text directly taken from the document as summaries.
