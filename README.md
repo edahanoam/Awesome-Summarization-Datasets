@@ -6,6 +6,7 @@ The collection and ontology is a result of our survey __The State and Fate of Su
 </p>
 
 
+## Citing
 If our survey contributes to your research, please reference the following paper in your work:
 <!-- here a way to cite our paper -->
 
@@ -66,9 +67,10 @@ $ \frac{\text{doc length (\#words)}}{\text{summary length (\#words)}}$          
   <img src="./images/datacard.PNG" alt="plot">
 </p>
 
-## Datasets
-For easier search, you can use our [platform](https://searchdatasets-fru5zwwfm2shmyrtna9gjh.streamlit.app/). Please note that it only features the datasets included in the survey.
+## Explore Interactively
+Use our [platform](https://searchdatasets-fru5zwwfm2shmyrtna9gjh.streamlit.app/) to easily explore and search for datasets by category. Please note that it only features the datasets included in the survey.
 
+## Datasets
 If you'd like to contribute a dataset, please submit a pull request. 
 
 
