@@ -8,8 +8,15 @@ The collection and ontology is a result of our survey __The State and Fate of Su
 
 ## Citing
 If our survey contributes to your research, please reference the following paper in your work:
-<!-- here a way to cite our paper -->
-
+@misc{dahan2024statefatesummarizationdatasets,
+      title={The State and Fate of Summarization Datasets}, 
+      author={Noam Dahan and Gabriel Stanovsky},
+      year={2024},
+      eprint={2411.04585},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.04585}, 
+}
 
 
 ## Data Card
