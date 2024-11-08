@@ -8,6 +8,7 @@ The collection and ontology is a result of our survey __The State and Fate of Su
 
 ## Citing
 If our survey contributes to your research, please reference the following paper in your work:
+```bibtex
 @misc{dahan2024statefatesummarizationdatasets,
       title={The State and Fate of Summarization Datasets}, 
       author={Noam Dahan and Gabriel Stanovsky},
@@ -17,7 +18,7 @@ If our survey contributes to your research, please reference the following paper
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2411.04585}, 
 }
-
+```
 
 ## Data Card
 For standardization, we recommend using the Summarization Data Card, which follows findings from our survey.<details>
