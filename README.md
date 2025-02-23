@@ -1,5 +1,5 @@
 # Awesome-Summarization-Datasets
-The collection and ontology is a result of our survey __The State and Fate of Summarization Datasets__.  
+The collection and ontology is a result of our survey __The State and Fate of Summarization Datasets__ (NAACL 2025).  
 
 <p align="center">
   <img src="./images/ontology.png" alt="plot">
