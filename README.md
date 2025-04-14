@@ -9,10 +9,10 @@ The collection and ontology is a result of our paper __The State and Fate of Sum
 ## Citing
 If our survey contributes to your research, please reference the following paper in your work:
 ```bibtex
-@misc{dahan2024statefatesummarizationdatasets,
-      title={The State and Fate of Summarization Datasets}, 
+@misc{dahan2025statefatesummarizationdatasets,
+      title={The State and Fate of Summarization Datasets: A Survey}, 
       author={Noam Dahan and Gabriel Stanovsky},
-      year={2024},
+      year={2025},
       eprint={2411.04585},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
