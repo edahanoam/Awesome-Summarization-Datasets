@@ -9,15 +9,23 @@ The collection and ontology is a result of our paper __The State and Fate of Sum
 ## Citing
 If our survey contributes to your research, please reference the following paper in your work:
 ```bibtex
-@misc{dahan2025statefatesummarizationdatasets,
-      title={The State and Fate of Summarization Datasets: A Survey}, 
-      author={Noam Dahan and Gabriel Stanovsky},
-      year={2025},
-      eprint={2411.04585},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.04585}, 
+@inproceedings{dahan-stanovsky-2025-state,
+    title = "The State and Fate of Summarization Datasets: A Survey",
+    author = "Dahan, Noam  and
+      Stanovsky, Gabriel",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.372/",
+    pages = "7259--7278",
+    ISBN = "979-8-89176-189-6"
 }
+
 ```
 
 ## Data Card
